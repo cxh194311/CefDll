@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyCKL", "EasyCKL.vcxproj", "{E6907268-86AB-4ADC-86E3-978FEC2D8F49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libcef_dll_wrapper", "cef\libcef_dll_wrapper\libcef_dll_wrapper.vcxproj", "{08F47C93-AA45-3B98-8AB8-CF2B432F1419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6907268-86AB-4ADC-86E3-978FEC2D8F49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6907268-86AB-4ADC-86E3-978FEC2D8F49}.Debug|Win32.Build.0 = Debug|Win32
+		{E6907268-86AB-4ADC-86E3-978FEC2D8F49}.Release|Win32.ActiveCfg = Release|Win32
+		{E6907268-86AB-4ADC-86E3-978FEC2D8F49}.Release|Win32.Build.0 = Release|Win32
+		{08F47C93-AA45-3B98-8AB8-CF2B432F1419}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08F47C93-AA45-3B98-8AB8-CF2B432F1419}.Debug|Win32.Build.0 = Debug|Win32
+		{08F47C93-AA45-3B98-8AB8-CF2B432F1419}.Release|Win32.ActiveCfg = Release|Win32
+		{08F47C93-AA45-3B98-8AB8-CF2B432F1419}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC7F07D-DEC8-4CFC-ADFE-CA3CF0BD2FCE}
+	EndGlobalSection
+EndGlobal
